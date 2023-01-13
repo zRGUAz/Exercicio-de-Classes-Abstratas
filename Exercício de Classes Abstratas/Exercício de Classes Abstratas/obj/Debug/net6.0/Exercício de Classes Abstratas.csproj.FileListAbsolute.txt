@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\bin\Debug\net6.0\Exercício de Classes Abstratas.exe
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\bin\Debug\net6.0\Exercício de Classes Abstratas.deps.json
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\bin\Debug\net6.0\Exercício de Classes Abstratas.runtimeconfig.json
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\bin\Debug\net6.0\Exercício de Classes Abstratas.dll
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\bin\Debug\net6.0\Exercício de Classes Abstratas.pdb
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\obj\Debug\net6.0\Exercício de Classes Abstratas.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\obj\Debug\net6.0\Exercício de Classes Abstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\obj\Debug\net6.0\Exercício de Classes Abstratas.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\obj\Debug\net6.0\Exercício de Classes Abstratas.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\obj\Debug\net6.0\Exercício de Classes Abstratas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\obj\Debug\net6.0\Exercício de Classes Abstratas.dll
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\obj\Debug\net6.0\refint\Exercício de Classes Abstratas.dll
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\obj\Debug\net6.0\Exercício de Classes Abstratas.pdb
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\obj\Debug\net6.0\Exercício de Classes Abstratas.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\Modulo3\Exercício de Classes Abstratas\Exercício de Classes Abstratas\obj\Debug\net6.0\ref\Exercício de Classes Abstratas.dll
